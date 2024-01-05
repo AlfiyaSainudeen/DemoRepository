@@ -1,0 +1,14 @@
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\bin\Debug\net8.0\AssignmentsOnLinQ.exe
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\bin\Debug\net8.0\AssignmentsOnLinQ.deps.json
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\bin\Debug\net8.0\AssignmentsOnLinQ.runtimeconfig.json
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\bin\Debug\net8.0\AssignmentsOnLinQ.dll
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\bin\Debug\net8.0\AssignmentsOnLinQ.pdb
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\obj\Debug\net8.0\AssignmentsOnLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\obj\Debug\net8.0\AssignmentsOnLinQ.AssemblyInfoInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\obj\Debug\net8.0\AssignmentsOnLinQ.AssemblyInfo.cs
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\obj\Debug\net8.0\AssignmentsOnLinQ.csproj.CoreCompileInputs.cache
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\obj\Debug\net8.0\AssignmentsOnLinQ.dll
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\obj\Debug\net8.0\refint\AssignmentsOnLinQ.dll
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\obj\Debug\net8.0\AssignmentsOnLinQ.pdb
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\obj\Debug\net8.0\AssignmentsOnLinQ.genruntimeconfig.cache
+C:\Users\asandhya\Desktop\IPrimed\ASP.NET\Day4\Assignment\AssignmentsOnLinQ\obj\Debug\net8.0\ref\AssignmentsOnLinQ.dll
