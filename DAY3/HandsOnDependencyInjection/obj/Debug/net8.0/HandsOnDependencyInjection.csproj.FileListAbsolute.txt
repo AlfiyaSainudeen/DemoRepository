@@ -1,0 +1,14 @@
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\bin\Debug\net8.0\HandsOnDependencyInjection.exe
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\bin\Debug\net8.0\HandsOnDependencyInjection.deps.json
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\bin\Debug\net8.0\HandsOnDependencyInjection.runtimeconfig.json
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\bin\Debug\net8.0\HandsOnDependencyInjection.dll
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\bin\Debug\net8.0\HandsOnDependencyInjection.pdb
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.AssemblyInfoInputs.cache
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.AssemblyInfo.cs
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.csproj.CoreCompileInputs.cache
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.dll
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\obj\Debug\net8.0\refint\HandsOnDependencyInjection.dll
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.pdb
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\obj\Debug\net8.0\HandsOnDependencyInjection.genruntimeconfig.cache
+C:\Alfiya\Asp.Net Core\DAY3\HandsOnDependencyInjection\obj\Debug\net8.0\ref\HandsOnDependencyInjection.dll
