@@ -1,0 +1,6 @@
+@AssignmentOnMovieValidation_HostAddress = http://localhost:5140
+
+GET {{AssignmentOnMovieValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
