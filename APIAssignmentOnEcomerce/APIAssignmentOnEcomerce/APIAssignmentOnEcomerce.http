@@ -1,0 +1,6 @@
+@APIAssignmentOnEcomerce_HostAddress = http://localhost:5177
+
+GET {{APIAssignmentOnEcomerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
